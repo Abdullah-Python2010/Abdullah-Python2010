@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning something Confidential
 - 💞️ I’m looking to collaborate on Slaying Bugs and Errors
-- 📫 How to reach me, You don't😋😂🤣
+- 📫 How to reach me, abdullahalansary2010@gmail.com
 
 <!---
 Abdullah-Python2010/Abdullah-Python2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
