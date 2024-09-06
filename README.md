@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abdullah-Python2010
-- 👀 I’m interested in Python and Web Development
+- 👋 Hi, I’m Abdullah
+- 👀 I’m interested in Programming and Design
 - 🌱 I’m currently learning something Confidential
-- 💞️ I’m looking to collaborate on Slaying Bugs and Errors
+- 💞️ I’m looking to collaborate on React and Graphic design Project
 - 📫 How to reach me, abdullahalansary2010@gmail.com
 
 <!---
